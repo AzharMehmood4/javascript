@@ -51,11 +51,11 @@ main()
 
  
 
-// data.then((v) => { 
-//     console.log(data)
+data.then((v) => { 
+    console.log(data)
 
-//     console.log("process data")
+    console.log("process data")
 
-//     console.log("task 2")
+    console.log("task 2")
  
-// })
+})
