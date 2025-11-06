@@ -30,24 +30,24 @@ async function getData() {
     return data
 }
 
-// async function main(){
-//     console.log("Loading modules")
+async function main(){
+    console.log("Loading modules")
 
-//     console.log("Do something else")
+    console.log("Do something else")
 
-//     console.log("Load data")
+    console.log("Load data")
 
-//     let data = await getData()
+    let data = await getData()
 
-//     console.log(data)
+    console.log(data)
 
-//     console.log("process data")
+    console.log("process data")
 
-//     console.log("task 2")
+    console.log("task 2")
 
-// }
+}
 
-// main()
+main()
 
  
 
