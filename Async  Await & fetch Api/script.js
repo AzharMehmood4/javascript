@@ -7,9 +7,9 @@ async function getData() {
     })
 }
 
-settle means resolve or reject
-resolve means promise has settled successfully
-reject means promise has not settled successfully
+// settle means resolve or reject
+// resolve means promise has settled successfully
+// reject means promise has not settled successfully
 
 async function getData() {
     // Simulate getting data from a server
