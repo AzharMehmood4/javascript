@@ -1,0 +1,6 @@
+console.log("hello world")
+console.log("chai")
+Process.stdout("hello")
+Process.stdout("chai")
+console.table({city: "islamabad"})
+console.warn({city: "islamabad"})
