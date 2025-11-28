@@ -8,9 +8,10 @@ let add = 3 + 2
 let sub = 3 - 2
 let mult = 3 * 2
 let dev = 3 / 2
-let remind = 3 % 2
+// let remind = 3 % 2
 let remind = 3 % 2
 let expo = 3 ** 2
+console.log(remind)
 
 let myscore = 102;
 myscore++;
