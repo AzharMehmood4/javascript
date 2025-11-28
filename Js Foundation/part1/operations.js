@@ -9,6 +9,7 @@ let sub = 3 - 2
 let mult = 3 * 2
 let dev = 3 / 2
 let remind = 3 % 2
+let remind = 3 % 2
 let expo = 3 ** 2
 
 let myscore = 102;
