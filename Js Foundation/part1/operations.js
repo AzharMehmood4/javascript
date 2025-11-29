@@ -14,6 +14,7 @@ let expo = 3 ** 2
 console.log(remind)
 console.log(dev)
 console.log(dev)
+console.log(dev)
 
 let myscore = 102;
 myscore++;
